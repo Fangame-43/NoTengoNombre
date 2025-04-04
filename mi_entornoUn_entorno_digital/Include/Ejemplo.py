@@ -1,1 +1,0 @@
-print ("Esto es un supuesto hola mundo")
